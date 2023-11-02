@@ -5,6 +5,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  background-image: url('https://t4.ftcdn.net/jpg/02/10/45/95/360_F_210459536_XmLDEcKq2DpeNLVmheuWeu9NM9aGKnih.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .login_form_container {

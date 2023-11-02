@@ -16,6 +16,7 @@ const Main = () => {
       </nav>
       <div className={styles.hero}>
         <h1>Hey and Welcome to the Main page!</h1>
+        <h2>You have successfully signed in!!</h2>
       </div>
     </div>
   )
